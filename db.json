@@ -1,5 +1,5 @@
-[
-  {
+{
+ "spices":[ {
     "id": "633858a005ea21af9bcf6ef8",
     "quantity": "41.95 Cape Verdean Escudo",
     "description": "Aliquip amet elit aliquip dolore velit deserunt et ullamco eiusmod laborum ut.",
@@ -186,5 +186,6 @@
     "condition": "new",
     "pic":  "https://thumbs.dreamstime.com/b/berbere-spice-other-spices-market-ethiopia-94880245.jpg"
 }
-  
 ]
+
+}
